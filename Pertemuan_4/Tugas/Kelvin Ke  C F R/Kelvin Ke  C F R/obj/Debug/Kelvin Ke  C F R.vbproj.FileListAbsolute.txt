@@ -1,0 +1,11 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\bin\Debug\Kelvin Ke  C F R.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\bin\Debug\Kelvin Ke  C F R.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\bin\Debug\Kelvin Ke  C F R.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\bin\Debug\Kelvin Ke  C F R.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\obj\Debug\Kelvin Ke  C F R.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\obj\Debug\Kelvin_Ke__C_F_R.Konversi_Kelvin_Ke_Celcius_Fahrenheit_Reamur_By_Reza_Ramadhan.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\obj\Debug\Kelvin_Ke__C_F_R.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\obj\Debug\Kelvin Ke  C F R.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\obj\Debug\Kelvin Ke  C F R.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\obj\Debug\Kelvin Ke  C F R.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\Tugas 4\Kelvin Ke  C F R\Kelvin Ke  C F R\obj\Debug\Kelvin Ke  C F R.pdb
