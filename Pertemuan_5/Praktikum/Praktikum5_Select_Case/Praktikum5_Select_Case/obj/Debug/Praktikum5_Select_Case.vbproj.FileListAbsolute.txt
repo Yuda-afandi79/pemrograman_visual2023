@@ -1,0 +1,25 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.Form2.resources
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.exe.config
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.exe
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.pdb
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\bin\Debug\Praktikum5_Select_Case.xml
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.vbproj.AssemblyReference.cache
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.Form1.resources
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.Form2.resources
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.Resources.resources
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.vbproj.GenerateResource.cache
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.vbproj.CoreCompileInputs.cache
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.exe
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.xml
+D:\pemrograman_visual2-main\Pertemuan 5\Praktikum 5\Praktikum5_Select_Case\Praktikum5_Select_Case\obj\Debug\Praktikum5_Select_Case.pdb
