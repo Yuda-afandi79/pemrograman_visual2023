@@ -1,0 +1,34 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\Pertemuan5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbproj.GenerateResource.Cache
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe.config
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.exe
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.pdb
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\bin\Debug\Nilai Mutu.xml
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbproj.AssemblyReference.cache
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Form1.resources
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai_Mutu.Resources.resources
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbproj.GenerateResource.cache
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.vbproj.CoreCompileInputs.cache
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.exe
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.xml
+D:\pemrograman_visual2-main\Pertemuan 5\Tugas 5\Nilai Mutu\Nilai Mutu\obj\Debug\Nilai Mutu.pdb
