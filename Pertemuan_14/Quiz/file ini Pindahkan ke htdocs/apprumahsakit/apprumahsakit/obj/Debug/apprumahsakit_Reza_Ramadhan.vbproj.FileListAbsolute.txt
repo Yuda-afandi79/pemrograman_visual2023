@@ -1,0 +1,15 @@
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.pdb
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.xml
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit_Reza_Ramadhan.vbproj.AssemblyReference.cache
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit_Reza_Ramadhan.vbproj.GenerateResource.cache
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit_Reza_Ramadhan.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit_Reza_Ramadhan.vbproj.CopyComplete
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb

@@ -1,0 +1,45 @@
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.dll
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbprojResolveAssemblyReference.cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.GenerateResource.Cache
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb
+D:\FILE KULIAH\Semester 6\Pemrograman Visual\QuizVisual\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.dll
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.AssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.GenerateResource.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.CoreCompileInputs.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.CopyComplete
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\tugas quiz\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe.config
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.exe
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.pdb
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\apprumahsakit.xml
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.AssemblyReference.cache
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form1.resources
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Form2.resources
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.Resources.resources
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.GenerateResource.cache
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.vbproj.CopyComplete
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.exe
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.xml
+C:\xampp\htdocs\apprumahsakit\apprumahsakit\obj\Debug\apprumahsakit.pdb
