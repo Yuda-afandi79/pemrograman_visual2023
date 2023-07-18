@@ -1,0 +1,34 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\bin\Debug\radio button_check box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\radio button_check box\radio button_check box\obj\Debug\radio button_check box.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbproj.GenerateResource.Cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe.config
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.exe
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.pdb
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\bin\Debug\radio button_check box.xml
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbproj.AssemblyReference.cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Tugas6_Wisata_Kolam_Renang.resources
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio_button_check_box.Resources.resources
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbproj.GenerateResource.cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.vbproj.CoreCompileInputs.cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.exe
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.xml
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\radio button_check box\radio button_check box\obj\Debug\radio button_check box.pdb

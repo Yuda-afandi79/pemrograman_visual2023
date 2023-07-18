@@ -1,0 +1,34 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\bin\Debug\combo box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo_box.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo_box.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\combo box\combo box\obj\Debug\combo box.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\bin\Debug\combo box.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\obj\Debug\combo box.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\obj\Debug\combo box.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\obj\Debug\combo box.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\bin\Debug\combo box.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\bin\Debug\combo box.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\bin\Debug\combo box.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\obj\Debug\combo box.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\obj\Debug\combo_box.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\obj\Debug\combo_box.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 6\pemrograman_visual2023-main\pertemuan6\combo box\combo box\obj\Debug\combo box.vbproj.GenerateResource.Cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\bin\Debug\combo box.exe.config
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\bin\Debug\combo box.exe
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\bin\Debug\combo box.pdb
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\bin\Debug\combo box.xml
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo box.vbproj.AssemblyReference.cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo_box.Form1.resources
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo_box.Resources.resources
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo box.vbproj.GenerateResource.cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo box.vbproj.CoreCompileInputs.cache
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo box.exe
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo box.xml
+D:\pemrograman_visual2-main\Pertemuan 6\Tugas 6\combo box\combo box\obj\Debug\combo box.pdb
