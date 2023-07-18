@@ -1,0 +1,31 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form2.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form3.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form4.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form5.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 7\latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.pdb
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.exe.config
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.exe
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.pdb
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\bin\Debug\menghubungkan form 1 -5.xml
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.vbproj.AssemblyReference.cache
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form1.resources
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form2.resources
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form3.resources
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form4.resources
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Form5.resources
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan_form_1__5.Resources.resources
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.vbproj.GenerateResource.cache
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.vbproj.CoreCompileInputs.cache
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.exe
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.xml
+D:\pemrograman_visual2-main\Pertemuan 7\Latihan 7\menghubungkan form 1 -5\menghubungkan form 1 -5\obj\Debug\menghubungkan form 1 -5.pdb
