@@ -1,0 +1,27 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Nilai_Akhir_By_Reza_Ramadhan.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Masa_Kerja_By_Reza_Ramadhan.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Kode_Jabatan_By_Reza_Ramadhan.resources
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.exe.config
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.exe
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.pdb
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\bin\Debug\Latihan5.xml
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.vbproj.AssemblyReference.cache
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Resources.resources
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.vbproj.GenerateResource.cache
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.vbproj.CoreCompileInputs.cache
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.exe
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.xml
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.pdb
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Nilai_Akhir.resources
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Masa_Kerja.resources
+D:\ss quiz faqih\Data Visual Yuda\pertemuan 5\Latihan5\Latihan5\obj\Debug\Latihan5.Kode_Jabatan.resources
