@@ -1,0 +1,41 @@
+C:\Users\Freddy Wicaksono\AppData\Local\Temporary Projects\AppAkademik\bin\Debug\AppAkademik.exe.config
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe.config
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.pdb
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\AppAkademik.xml
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\bin\Debug\MySql.Data.dll
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbprojResolveAssemblyReference.cache
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form1.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Resources.resources
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.GenerateResource.Cache
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.exe
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.xml
+C:\Users\Freddy Wicaksono\Documents\Visual Studio 2015\Projects\AppAkademik\AppAkademik\obj\Debug\AppAkademik.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\bin\Debug\AppAkademik.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\bin\Debug\AppAkademik.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.AssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form1.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.GenerateResource.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.CoreCompileInputs.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.CopyComplete
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\pertemuan 9\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form2.resources
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe.config
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\bin\Debug\AppAkademik.exe
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\bin\Debug\AppAkademik.pdb
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\bin\Debug\AppAkademik.xml
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.AssemblyReference.cache
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form1.resources
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Form2.resources
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.Resources.resources
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.GenerateResource.cache
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.CoreCompileInputs.cache
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.vbproj.CopyComplete
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.exe
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.xml
+D:\pemrograman_visual2-main\Pertemuan 9\Tugas Praktikum\AppAkademik\AppAkademik\obj\Debug\AppAkademik.pdb
