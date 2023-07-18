@@ -1,0 +1,22 @@
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.exe.config
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.pdb
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.vbprojResolveAssemblyReference.cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius_ke_F_R_K.Konversi_Celcius_ke_Fahrenheit_Reamur_kelvin.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius_ke_F_R_K.Resources.resources
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.vbproj.GenerateResource.Cache
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.exe
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.xml
+D:\mata kuliah teknik informatika\semester 6\pemrograman visual\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.pdb
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.exe.config
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.exe
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.pdb
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\bin\Debug\Celcius ke F R K.xml
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius_ke_F_R_K.Konversi_Celcius_ke_Fahrenheit_Reamur_kelvin.resources
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius_ke_F_R_K.Resources.resources
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.vbproj.GenerateResource.cache
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.vbproj.CoreCompileInputs.cache
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.exe
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.xml
+D:\ss quiz faqih\data visual  faqih\latihan\Pertemuan 4\latihan 4\Celcius ke F R K\Celcius ke F R K\obj\Debug\Celcius ke F R K.pdb
