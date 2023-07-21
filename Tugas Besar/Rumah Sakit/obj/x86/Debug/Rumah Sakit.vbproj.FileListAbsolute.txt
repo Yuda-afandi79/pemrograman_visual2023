@@ -1,0 +1,104 @@
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.exe
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.pdb
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.xml
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Form1.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Resources.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbproj.GenerateResource.Cache
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.exe
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.xml
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.pdb
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmUserLogin.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputPasien.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmJenisKartu.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabasePasien.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.exe
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.xml
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.pdb
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Form1.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabasePasien.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputPasien.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmJenisKartu.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmUserLogin.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbproj.GenerateResource.Cache
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.exe
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.pdb
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.xml
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit(rusak)\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Resources.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.exe
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.xml
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.pdb
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.exe
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.pdb
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.xml
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Form1.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabasePasien.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputPasien.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmJenisKartu.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmUserLogin.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Resources.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbproj.GenerateResource.Cache
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmLoading.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmLogin.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputDokter.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmBidang.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputKeluhan.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmKunjungan.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputDiagnosa.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabaseDokter.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\Rumah Sakit.exe.config
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbprojResolveAssemblyReference.cache
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmReport.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\RdlCompile.cache
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\RdlCompile.compiled
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmAbout.resources
+E:\PROGRAM\VbNet 2015\Skripsi\Rumah Sakit\Rumah Sakit\Rumah Sakit\bin\Debug\DB.mdb
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\bin\Debug\Rumah Sakit.exe.config
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.exe
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.xml
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.pdb
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\bin\Debug\DB.mdb
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\bin\Debug\Rumah Sakit.exe
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\bin\Debug\Rumah Sakit.pdb
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\bin\Debug\Rumah Sakit.xml
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbprojResolveAssemblyReference.cache
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmAbout.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Form1.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmBidang.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabaseDokter.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabasePasien.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputDiagnosa.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputDokter.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputKeluhan.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputPasien.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmJenisKartu.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmKunjungan.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmLoading.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmLogin.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmReport.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmUserLogin.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Resources.resources
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbproj.GenerateResource.Cache
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\RdlCompile.cache
+C:\Users\IT & E-Channel\Documents\login\RS_1\RS\Rumah Sakit\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Asus\Downloads\RS\Rumah Sakit\bin\Debug\Rumah Sakit.exe.config
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.exe
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.xml
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.pdb
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmAbout.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Form1.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmBidang.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabaseDokter.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmDatabasePasien.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputDiagnosa.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputDokter.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputKeluhan.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmInputPasien.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmJenisKartu.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmKunjungan.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmLoading.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmLogin.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmReport.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.FrmUserLogin.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah_Sakit.Resources.resources
+C:\Users\Asus\Downloads\RS\Rumah Sakit\obj\x86\Debug\Rumah Sakit.vbproj.GenerateResource.Cache
